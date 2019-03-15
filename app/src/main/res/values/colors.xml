@@ -6,24 +6,24 @@
     <color name="Color">#ff0000</color>
 
     <color name="red">#ff0000</color>
-    <color name="red1">#ff0000</color>
-    <color name="red2">#ff0000</color>
-    <color name="red3">#ff0000</color>
-    <color name="red4">#ff0000</color>
-    <color name="red5">#ff0000</color>
+    <color name="red1">#A02323</color>
+    <color name="red2">#923B3B</color>
+    <color name="red3">#F31B1B</color>
+    <color name="red4">#750000</color>
+    <color name="red5">#C77D7D</color>
 
     <color name="green">#00ff00</color>
-    <color name="green1">#ff0000</color>
-    <color name="green2">#ff0000</color>
-    <color name="green3">#ff0000</color>
-    <color name="green4">#ff0000</color>
-    <color name="green5">#ff0000</color>
+    <color name="green1">#02F532</color>
+    <color name="green2">#5CDA5D</color>
+    <color name="green3">#78DB04</color>
+    <color name="green4">#0C5A03</color>
+    <color name="green5">#0A3A01</color>
 
     <color name="blue">#0000ff</color>
-    <color name="blue1">#ff0000</color>
-    <color name="blue2">#ff0000</color>
-    <color name="blue3">#ff0000</color>
-    <color name="blue4">#ff0000</color>
-    <color name="blue5">#ff0000</color>
+    <color name="blue1">#12E0C8</color>
+    <color name="blue2">#1320FF</color>
+    <color name="blue3">#0635A7</color>
+    <color name="blue4">#0CABF8</color>
+    <color name="blue5">#003C69</color>
 
 </resources>
